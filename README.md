@@ -131,7 +131,7 @@ Receive messages from Telegram in real-time
 - Secure chat ID verification
 
 # 📦 Releases
-Check out the [Releases]([Releases](https://github.com/Astro-5444/Eva/releases)) page for the latest version of Eva AI Desktop Assistant. 
+Check out the [Releases](https://github.com/Astro-5444/Eva/releases) page for the latest version of Eva AI Desktop Assistant. 
 
 # 📄 License
 
