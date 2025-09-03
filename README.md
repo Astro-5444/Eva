@@ -130,8 +130,54 @@ Receive messages from Telegram in real-time
 - Cross-platform messaging support
 - Secure chat ID verification
 
-# 📦 Releases
-Check out the [Releases](https://github.com/Astro-5444/Eva/releases) page for the latest version of Eva AI Desktop Assistant. 
+
+## Requirements
+- Python **3.11+** (tested on Python 3.13.7)
+- All dependencies are listed in the `requirements.txt` file.  
+  Install them using:
+```bash
+pip install -r requirements.txt
+```
+
+## ⬇️ Installation & Setup
+
+You can run Eva in two ways:
+
+### 1. From Source (Python)
+1. Install **Python 3.11+** (tested on 3.13.7).
+2. Download the source code from this repository.
+```bash
+git clone https://github.com/Astro-5444/Eva.git
+```
+3. Install dependencies:
+```bash
+cd Eva
+pip install -r requirements.txt
+```
+4. Run:
+```bash
+python main.py
+```
+### 2. Using the Executable
+1. Go to the [Releases](https://github.com/Astro-5444/Eva/releases) page.
+
+2. Download the .rar file containing Eva.exe.
+
+3. Extract the .rar file.
+
+4. Run Eva.exe — no Python installation needed.
+
+
+
+# 🔜 Planned Features
+
+Eva will be enhanced with the following capabilities in future releases:
+
+- **Voice Interaction** – Talk to Eva using natural speech and receive spoken responses, making the assistant hands-free.
+
+- **Weather API Integration** – Get real-time weather updates and forecasts directly from the chat interface.
+
+- **Spotify API Integration** – Control your Spotify account through Eva, including playing songs, controlling volume, and managing playlists.
 
 # 📄 License
 
@@ -153,3 +199,10 @@ Eva AI Desktop Assistant is released under a custom license. See the LICENSE fil
 - No liability for any damages arising from use of the software
 
 For complete license terms, please refer to the [LICENSE](LICENSE) file in the project repository.
+
+
+# 🛠 Support & Issues
+
+If you encounter any bugs, errors, or unexpected behavior while using Eva, please report them by opening an [issue on GitHub](https://github.com/Astro-5444/Eva/issues).  
+
+This helps keep all reports organized and ensures transparency for other users.
