@@ -1988,7 +1988,7 @@ received_message = ""
 application = None
 chatbot_instance = None
 ALLOWED_CHAT_ID = None
-TOKEN = "7568519350:AAFvpIaRyzLg4QocNTyXPhbXExcvvi3Kdfc"
+TOKEN = BOT_TOKEN
 
 def telegram():
     """Start the bot in background thread"""
